@@ -1,0 +1,9 @@
+@import "tailwindcss";
+html{
+     scroll-behavior: smooth;
+}
+
+body {
+  outline: 1px solid red; ;
+  overflow-x: hidden;
+} 
